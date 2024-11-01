@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle at center, red, blue);
+}
+
+.content {
+    font-size: 20px;
+    color: white;
+}
